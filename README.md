@@ -2,7 +2,7 @@
 
 Lightweight JetBrains Exposed extension providing type-safe column support and value class wrapping for **Xbox Unique Identifiers (XUID)**. 
 
-Designed specifically for Minecraft Bedrock (GeyserMC / Floodgate / AllayMC) backend services.
+Designed specifically for Minecraft Bedrock backend services.
 
 ## How to use in your projects?
 
