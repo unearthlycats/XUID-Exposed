@@ -15,5 +15,5 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.UnearthlyCatS:XUID-Exposed:1.0.0")
+    implementation("com.github.unearthlycats:XUID-Exposed:1.0.0")
 }
