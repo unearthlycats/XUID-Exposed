@@ -11,9 +11,9 @@ Add JitPack repository to your `build.gradle.kts`:
 ```kotlin
 repositories {
     mavenCentral()
-    maven("[https://jitpack.io](https://jitpack.io)")
+    maven("https://jitpack.io")
 }
 
 dependencies {
-    implementation("com.github.твои_никнейм:XUID-Exposed:TAG")
+    implementation("com.github.UnearthlyCatS:XUID-Exposed:1.0.0")
 }
